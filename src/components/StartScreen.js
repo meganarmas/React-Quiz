@@ -7,3 +7,5 @@ function StartScreen ({ numQuestions, dispatch }) {
         </div>
     )
 }
+
+export default StartScreen;
